@@ -1,3 +1,2 @@
 jxxghp/moviepilot:latest
-mongo:4.4.26
-mysql:8.0.36
+anapsix/alpine-java:8_server-jre_unlimited
