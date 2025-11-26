@@ -1,1 +1,2 @@
 nacos/nacos-server:1.4.8
+alpine:3.18.3
